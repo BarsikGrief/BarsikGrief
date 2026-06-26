@@ -1,16 +1,41 @@
 ## Hi there 👋
 
 <!--
-**BarsikGrief/BarsikGrief** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+```java
+/**
+ * GitHub Profile
+ * @author BarsikGrief
+ */
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+public final class BarsikGrief {
+
+    private final String name = "Барсик";
+    private final String username = "BarsikGrief";
+
+    private final String[] languages = {
+        "Java",
+        "Python"
+    };
+
+    private final String role =
+        "Software Developer";
+
+    private final String[] interests = {
+        "Backend Development",
+        "Automation",
+        "Programming"
+    };
+
+    public String about() {
+        return "Passionate about software development "
+             + "and creating efficient solutions.";
+    }
+
+    public String status() {
+        return "Learning, coding and improving every day.";
+    }
+}
+```
 -->

@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-# Hi there 👋
-
 ```java
 /**
  * GitHub Profile
@@ -38,4 +35,3 @@ public final class BarsikGrief {
     }
 }
 ```
--->
